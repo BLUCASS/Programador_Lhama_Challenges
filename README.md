@@ -1,7 +1,7 @@
 # CHALLENGES
 
 ## DESCRIPTION
-    Repository created to solve the challenges proposed by Programador Lhama on YouToube.
+    Repository created to solve the challenges proposed by Programador Lhama on YouTube.
 
 ## REQUIREMENTS
 - [Python3](https://docs.python.org/3/)
