@@ -8,7 +8,8 @@
 - [VisualCode](https://code.visualstudio.com/docs)
 
 ## CHALLENGE DETAILS
-- [Challenge 1](/challenge1.py):
-to create an elevator system for a building
+- [Challenge 1](/challenge1.py): to create an elevator system for a building.
 
-- [Challenge 2](/challenge2.py): to improve the first elevator, adding a second elevator
+- [Challenge 2](/challenge2.py): to improve the first elevator, adding a second elevator.
+
+- [Challenge 3](/challenge3.py): to create a Rock, Scissor, Paper game.
