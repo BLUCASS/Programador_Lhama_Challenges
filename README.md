@@ -15,3 +15,5 @@
 - [Challenge 3](/challenge3.py): to create a Rock, Scissor, Paper game.
 
 - [Challenge 4](/challenge4.py): to create a library system.
+
+- [Challenge 5](/challenge5.py): to create a travelling manager.
