@@ -17,3 +17,5 @@
 - [Challenge 4](/challenge4.py): to create a library system.
 
 - [Challenge 5](/challenge5.py): to create a travelling manager.
+
+- [Challenge 6](/challenge6.py): to automatize an email and send it to various recipients.
