@@ -29,7 +29,7 @@ class EmailSystem:
             filter = str(input('Type a new destiny: ')).lower().strip()
             if not '@' in filter: filter += '@gmail.com'
             destiny.append(filter)
-            resp = str(input('D you want to add a new destiny [Y/N]? ')).upper()[0]
+            resp = str(input('Do you want to add a new destiny [Y/N]? ')).upper()[0]
             if resp != 'Y':
                 self.recipients = destiny
                 break
