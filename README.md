@@ -21,3 +21,7 @@
 - [Challenge 6](/challenge6.py): to automate the sending of an email to various recipients.
 
 - [Challenge 7](/challenge7.py): to create a specific calculator, you can find the details in the program.
+
+- [Challenge 8](/challenge8.py): to create a calculator using the concept of Class Inheritance.
+
+- [Challenge 8 - 2nd version](/challenge8_2.py): to create a calculator using the concept of Abstract Methods.
